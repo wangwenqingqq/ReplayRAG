@@ -1,0 +1,52 @@
+{
+  "GPU_starts": 0,
+  "QA_files": {
+    "test_augmented.json": {
+      "bytes": 184320,
+      "git_blob_sha1": "3dae5842ea264d60461c0d1f4633b2ca339a65ae"
+    },
+    "test_human.json": {
+      "bytes": 156786,
+      "git_blob_sha1": "47a59641f43136c0a67d27aff4cde564c6a511ae"
+    },
+    "train_augmented.json": {
+      "bytes": 3093201,
+      "git_blob_sha1": "d0653f7c20740a26cc8bcfaccf3ce9fa4fc4d933"
+    },
+    "train_human.json": {
+      "bytes": 929588,
+      "git_blob_sha1": "b1ba499f3b0e21326a1535022a1cde708465ec29"
+    },
+    "val_augmented.json": {
+      "bytes": 128162,
+      "git_blob_sha1": "131068b504407d9cdd8413fe5c574772bb241613"
+    },
+    "val_human.json": {
+      "bytes": 123716,
+      "git_blob_sha1": "983dacfcb6aabc8598031c07eeba7747f9884c4a"
+    }
+  },
+  "automatic_retries": false,
+  "experiment": "ReplayRAG_20261020_ChartQA_Metadata_Gate0A",
+  "first_failure_stop": true,
+  "identity_probe_counts": {
+    "test": 128,
+    "train": 32,
+    "val": 32
+  },
+  "max_single_download_bytes": 8388608,
+  "max_total_download_bytes": 33554432,
+  "model_calls": 0,
+  "scope": "CPU metadata/identity audit only;not a model experiment or novelty admission",
+  "selection_rule": "Within each original split and question origin,rank deterministic QA identity hashes;one QA per Git image-blob identity;exclude cross-split image identities;never use model outputs or scores",
+  "selection_seed": 2026102001,
+  "selection_status": "Identity-only preparation;not final confirmatory sample size or frozen model protocol",
+  "split_trees": {
+    "test": "390e85deb3ed4dabf36ffaad8be22bca82744acc",
+    "train": "1caf945c1d48b91c0a571e4dad18dbaadc7673fc",
+    "val": "1689317d1a62aacdb946dda38e0e513723e833d4"
+  },
+  "upstream_commit": "044eabfc306abfe9340c5741f0093aefc5973d06",
+  "upstream_declared_license": "GPL-3.0;no dataset images,QA contents,annotations or source code redistributed",
+  "upstream_repository": "vis-nlp/ChartQA"
+}

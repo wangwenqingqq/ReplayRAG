@@ -1,0 +1,87 @@
+{
+  "dataset_tree.json": {
+    "bytes": 778,
+    "sha256": "775bcbd41a0bcbed40b9ce2ed0905c30b4522d78f1aabb44efaa1516860ed9b6",
+    "url": "https://api.github.com/repos/vis-nlp/ChartQA/git/trees/0a4076a03da688e572a70af7eeac9681455deceb"
+  },
+  "root_tree.json": {
+    "bytes": 1448,
+    "sha256": "958da92c4f19d20d60b9dc4c3e0dbb379891adf970d47d98e2a58049408368f1",
+    "url": "https://api.github.com/repos/vis-nlp/ChartQA/git/trees/044eabfc306abfe9340c5741f0093aefc5973d06"
+  },
+  "test_augmented.json": {
+    "bytes": 184320,
+    "sha256": "9df43a15e93ecb8496c3e5dc23f6a733cfeccac838ab41126ab56576b9305de1",
+    "url": "https://raw.githubusercontent.com/vis-nlp/ChartQA/044eabfc306abfe9340c5741f0093aefc5973d06/ChartQA%20Dataset/test/test_augmented.json"
+  },
+  "test_human.json": {
+    "bytes": 156786,
+    "sha256": "5fba61b508a96b85cd5906bb14adfc1ba552bdcf88ac568ed6e2f79dcf0460b7",
+    "url": "https://raw.githubusercontent.com/vis-nlp/ChartQA/044eabfc306abfe9340c5741f0093aefc5973d06/ChartQA%20Dataset/test/test_human.json"
+  },
+  "test_png_tree.json": {
+    "bytes": 340426,
+    "sha256": "1d5e523d8b39273d9cf7a649c06a1d3216081c553133ce0efb6da8a17c723226",
+    "url": "https://api.github.com/repos/vis-nlp/ChartQA/git/trees/07dd545e627b1f016d1527d51fd413f6702b8233"
+  },
+  "test_tables_tree.json": {
+    "bytes": 337202,
+    "sha256": "8fa08ddda898b016a415b3115e2fe6ab7264b9382bdcb24bfdc3e175a3a56c2f",
+    "url": "https://api.github.com/repos/vis-nlp/ChartQA/git/trees/eddd99418b51cda9249b1368758b46e94cc779b9"
+  },
+  "test_tree.json": {
+    "bytes": 1032,
+    "sha256": "4b4b80ba748181e3d837ae7fcbb7f74589d6e8be95359ae12b175b444680d26d",
+    "url": "https://api.github.com/repos/vis-nlp/ChartQA/git/trees/390e85deb3ed4dabf36ffaad8be22bca82744acc"
+  },
+  "train_augmented.json": {
+    "bytes": 3093201,
+    "sha256": "77342d8527d2a194a6011ce3f4389ea32d9c50cfe60b10c74dbe1cd2e49724da",
+    "url": "https://raw.githubusercontent.com/vis-nlp/ChartQA/044eabfc306abfe9340c5741f0093aefc5973d06/ChartQA%20Dataset/train/train_augmented.json"
+  },
+  "train_human.json": {
+    "bytes": 929588,
+    "sha256": "4eaaa03e406dbbbe43caff925dbec9930b87fadba960f1c2ab30a5def287c384",
+    "url": "https://raw.githubusercontent.com/vis-nlp/ChartQA/044eabfc306abfe9340c5741f0093aefc5973d06/ChartQA%20Dataset/train/train_human.json"
+  },
+  "train_png_tree.json": {
+    "bytes": 4121888,
+    "sha256": "d601fbe3281c2b7b082601ed4f545584a4b6bf5af89e56c4f7f3991a76b59723",
+    "url": "https://api.github.com/repos/vis-nlp/ChartQA/git/trees/1869eec4dabbe2dc9d582809fb80f5c1d70a9af9"
+  },
+  "train_tables_tree.json": {
+    "bytes": 4083165,
+    "sha256": "6a7a690b7adf552a3bbc8f0031fe8966ceb74b3414bc6a7e9dcea6f847187e36",
+    "url": "https://api.github.com/repos/vis-nlp/ChartQA/git/trees/ee4fd1560fd34cb3025e70fe500297df43cd10e3"
+  },
+  "train_tree.json": {
+    "bytes": 1035,
+    "sha256": "896975326b8dfc9948a3072c9e1c5bc2e32bc943ad920ab3e714d21f65394617",
+    "url": "https://api.github.com/repos/vis-nlp/ChartQA/git/trees/1caf945c1d48b91c0a571e4dad18dbaadc7673fc"
+  },
+  "val_augmented.json": {
+    "bytes": 128162,
+    "sha256": "cafc675781fba27282b78cab40eb49b77a5bf890ef1e89294bb67c994bdfde47",
+    "url": "https://raw.githubusercontent.com/vis-nlp/ChartQA/044eabfc306abfe9340c5741f0093aefc5973d06/ChartQA%20Dataset/val/val_augmented.json"
+  },
+  "val_human.json": {
+    "bytes": 123716,
+    "sha256": "e297ce5b38b4ab79bd0e22a93eb19a65cb89f9bd07ce886cb78f2e333fb0ba14",
+    "url": "https://raw.githubusercontent.com/vis-nlp/ChartQA/044eabfc306abfe9340c5741f0093aefc5973d06/ChartQA%20Dataset/val/val_human.json"
+  },
+  "val_png_tree.json": {
+    "bytes": 239036,
+    "sha256": "a774d12b06cebeb3dedff0e3c8a72a48ce1a1c10da7cee492b838169740bbb91",
+    "url": "https://api.github.com/repos/vis-nlp/ChartQA/git/trees/cd5ec40a80b1f1c038b9e8b214677e3a8ce54fd2"
+  },
+  "val_tables_tree.json": {
+    "bytes": 236788,
+    "sha256": "879f4773e0447edcdea4403aadfaf8a91c8382e98a02a9a4a91bacf6c93e56ed",
+    "url": "https://api.github.com/repos/vis-nlp/ChartQA/git/trees/2ce86c3ffefcc0602905d002d4f25a4354ecbe93"
+  },
+  "val_tree.json": {
+    "bytes": 1030,
+    "sha256": "1cfe32404d92308dcdf66fd9418d07560c1c609282aade92901624d84badcaca",
+    "url": "https://api.github.com/repos/vis-nlp/ChartQA/git/trees/1689317d1a62aacdb946dda38e0e513723e833d4"
+  }
+}

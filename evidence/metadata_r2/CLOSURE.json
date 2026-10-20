@@ -1,0 +1,33 @@
+{
+  "GPU_starts": 0,
+  "annotation_correctness": "UNREVIEWED",
+  "candidate_charts_unique": 192,
+  "candidate_pool_label_variant_collisions": {
+    "test": 0,
+    "train": 0,
+    "val": 0
+  },
+  "candidate_pool_sizes": {
+    "test": 128,
+    "train": 32,
+    "val": 32
+  },
+  "global_data_review_required": true,
+  "independent_label_variant_groups": 74,
+  "model_calls": 0,
+  "raw_census_sha256": "8d5b21916f484ebea8166a7154d15928c829a53aca06f4c73c379b3b97ceae19",
+  "raw_downloads_verified": 17,
+  "raw_files_verified": 23,
+  "root_tree_sha1": "f131fa9e0003ec7724d9d5a9eaf76705734e4c42",
+  "status": "PASS_METADATA_CLOSURE_ONLY",
+  "supplemental_commit_metadata": {
+    "bytes": 2186,
+    "sha256": "27833331af2dbee28eed21660e8e9c68bc969c7cee1aff00e18a2630f324be61"
+  },
+  "template_source_independence": "UNKNOWN",
+  "upstream_commit": "044eabfc306abfe9340c5741f0093aefc5973d06",
+  "verifier_source": {
+    "bytes": 7295,
+    "sha256": "177df3f25e5b7a7145c5f9d772cbe9f0b101bf597ee460d47562df32599dd1fd"
+  }
+}

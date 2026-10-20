@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+private/
+runs/
+data/
+*.safetensors
+*.bin

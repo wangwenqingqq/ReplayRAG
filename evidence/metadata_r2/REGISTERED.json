@@ -1,0 +1,22 @@
+{
+  "GPU_starts": 0,
+  "before_download": true,
+  "contract_sha256": "6e263e7e9ce20ccf32e31353eb1da7725e7320717c2b05a845779bb57edd2d18",
+  "github_api_authenticated": true,
+  "model_calls": 0,
+  "python": "3.9.6",
+  "source_files": {
+    "AUDIT_CONTRACT.json": {
+      "bytes": 1946,
+      "sha256": "6e263e7e9ce20ccf32e31353eb1da7725e7320717c2b05a845779bb57edd2d18"
+    },
+    "audit_chartqa.py": {
+      "bytes": 11239,
+      "sha256": "a5e8a8980d78532004349942083064c8ab21728a4114d9b909f4a49fe7374b6e"
+    },
+    "test_audit.py": {
+      "bytes": 2264,
+      "sha256": "e135bc0820a93ba18f7d6faf5f04966b2210c9656b1ff60d5c0f1aa45f35b4d8"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "model_calls": 0,
+  "GPU_starts": 0,
+  "attempts": [
+    {
+      "id": "metadata_r1",
+      "status": "STOPPED",
+      "cause": "Anonymous API quota exhausted at second tree request",
+      "preservation": "Partial raw response, request ledger, failure record and original source retained privately"
+    },
+    {
+      "id": "metadata_r2",
+      "status": "COMPLETED_METADATA_ONLY",
+      "recovery_registration": "Explicit separate CPU metadata recovery; no automatic retry",
+      "change": "Existing credential helper used in memory for GitHub API only; redirects denied",
+      "unchanged": ["upstream identities", "selection seed", "request byte limits", "zero model calls", "zero GPU starts"]
+    },
+    {
+      "id": "closure_verifier_development",
+      "status": "CORRECTED_BEFORE_CLOSURE",
+      "finding": "Root-tree API sha field echoes commit argument, not reconstructed tree hash",
+      "action": "Retained supplemental commit-to-tree lookup and verified actual tree object",
+      "original_audit_replaced": false
+    }
+  ]
+}
